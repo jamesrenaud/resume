@@ -20,8 +20,8 @@ Reliability Status and Secret Clearance
 
 **Microsoft Certified IT Professional**
 Microsoft Lync 2010, Microsoft Lync 2013, Microsoft SQL Server 2012
----
 
+---
 ## Experience
 **Mitel Networks** - *Senior DevOps Engineer*
 
