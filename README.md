@@ -4,11 +4,11 @@
 My entire career has been spent solving complex techincal problems for businesses and their customers, with experience working with individual teams, leadership organizations, and standing in front of end customers directly. I am at the core a DevOps evangalist, and have personally undergone the transition from enterprise, waterfall based projects, into lean, agile, and scalable cloud solutions. I specialize in designing, implementing, and maintaining DevOps practices in AWS for organizations of all sizes. My goal is to take organizations and teams with no DevOps experience or practice and integrate the technological and culture changes required to achieve scalability and success in the cloud space. 
 
 ## Contact Info
-<img src="/images/male.png" width="50"> [jrenaud@gmail.com](mailto:jrenaud@gmail.com)
+<img src="/images/male.png" width="25" align="middle"> [jrenaud@gmail.com](mailto:jrenaud@gmail.com)
 
-<img src="/images/wordpress-logo.png" width="50"> [jamesrenaud.ca](http://jamesrenaud.ca)
+<img src="/images/wordpress-logo.png" width="25" align="middle"> [jamesrenaud.ca](http://jamesrenaud.ca)
 
-<img src="/images/linkedin-logo-1.png" width="50"> [linkedin.com/in/jamesrenaud](https://www.linkedin.com/in/jamesrenaud)
+<img src="/images/linkedin-logo-1.png" width="25" align="middle"> [linkedin.com/in/jamesrenaud](https://www.linkedin.com/in/jamesrenaud)
 
 ---
 ## Certifications
