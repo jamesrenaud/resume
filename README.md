@@ -60,3 +60,10 @@ Responsible for providing architectural level support for Mitel Contact Center S
 September 2010 - October 2011
 
 Responsible for customer support for Contact Center Solutions for Microsoft Lync, and Mitel telephony platforms. Provided mentorship for junior support staff. Also acted as primary subject matter expert for SalesForce.com Integration, CTI Developer Toolkit, Advanced Data Access, and Intelligent Queue products. Participated heavily in the design and architectural planning for features and products. prairieFyre Software was acquired by Mitel Networks in October 2011.
+
+---
+
+## Volunteering
+**Kanata Theatre** - *Director, Marketing & Publicity*
+
+July 2017 - June 2019
