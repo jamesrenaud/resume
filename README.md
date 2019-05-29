@@ -1,7 +1,9 @@
 # James Renaud
 ![Headshot](/images/headshot.png)
 
-My entire career has been spent solving complex techincal problems for businesses and their customers, with experience working with individual teams, leadership organizations, and standing in front of end customers directly. I am at the core a DevOps evangalist, and have personally undergone the transition from enterprise, waterfall based projects, into lean, agile, and scalable cloud solutions. I specialize in designing, implementing, and maintaining DevOps practices in AWS for organizations of all sizes. My goal is to take organizations and teams with no DevOps experience or practice and integrate the technological and culture changes required to achieve scalability and success in the cloud space. 
+My entire career has been spent solving complex techincal problems for businesses and their customers. I have experience working with teams, leadership organizations, and standing in front of end customers directly. I am at the core a DevOps evangalist, and have personally undergone the transition from enterprise, waterfall based projects, into lean, agile, and scalable cloud solutions. I love designing, implementing, and maintaining DevOps practices in AWS for organizations of all sizes. My goal is to take organizations and teams with little to no DevOps experience or practice and integrate the technological and culture changes required to achieve scalability and success in the cloud space.
+
+I am a self starter, and a problem solver. I'm at my best when I'm presented with a problem to solve and given the freedom to work with the right people to design and implement a solution.
 
 ## Contact Info
 <img src="/images/male.png" width="25" align="middle"> [jrenaud@gmail.com](mailto:jrenaud@gmail.com)
@@ -10,24 +12,62 @@ My entire career has been spent solving complex techincal problems for businesse
 
 <img src="/images/linkedin-logo-1.png" width="25" align="middle"> [linkedin.com/in/jamesrenaud](https://www.linkedin.com/in/jamesrenaud)
 
----
-## Certifications
-**Amazon Web Services (AWS)**
-AWS Certified Developer - Associate
-
-**Government of Canada**
-Reliability Status and Secret Clearance
-
-**Microsoft Certified IT Professional**
-Microsoft Lync 2010, Microsoft Lync 2013, Microsoft SQL Server 2012
+<img src="/images/github-logo.png" width="25" align="middle"> [github.com/jamesrenaud](https://www.github.com/jamesrenaud)
 
 ---
+## Technicals
+**Languages**
+* NodeJS/JavaScript/Typescript
+  * React
+  * Electron
+  * Angular
+* Bash
+* AWS CloudFormation (JSON/YAML) - trust me CloudFormation is its own language
+* A working knowledge of web - HTML/CSS
+
+**Technologies**
+* AWS
+  * Full stack (Serverless) - API Gateway, Lambda, SES, SNS, IOT
+  * Full stack (Server based) - EC2, Autoscaling, Load Blancing, VPC, ECS/Fargate
+  * Data storage - ElasticSearch, DynamoDB, RDS, S3
+  * Analytics - Pinpoint
+  * Monitoring - CloudWatch Events, Logs, and Rules
+  * Security - GuardDuty, Macie, IAM in large organizations
+  * Organizations
+  * And just about every other AWS service
+
+* SaaS Services
+  * SumoLogic
+  * DataDog
+  * PagerDuty
+  * Coveralls
+  * Cloudcheckr
+
+* The more boring stuff
+  * Deploying and managing
+    * Confluence
+    * Nexus Repository Server
+    * Artifactory Repository Server
+  * Most inux distros, just about every version of Windows (Server and Core)
+  * Microsoft SQL Server
+
+**Methodologies**
+* Waterfall, Agile (Kanban, Blended Agile/Waterfall)
+---
+
 ## Experience
-**Mitel Networks** - *Senior DevOps Engineer*
+**Mitel Networks** - *DevOps Architect & Senior DevOps Developer*
 
 May 2017 - Present
 
-Responsible for the DevOps practice for Mitel's CloudLink platform on AWS. Designed, implemented, and maintained a DevOps practice from scratch. Managed the CI/CD pipelines for AWS Serverless micro services, REST API's, complex media processing architecture, and static web applications. Acted as a techincal expert on AWS services, security, and best practices for the entire company, providing thought leadership on DevOps practices, culture, and integration with AWS. 
+Responsible for the DevOps practice for Mitel's Cloudlink Platform on AWS. Cloudlink is a cloud first unified communications API based on AWS consisting of approximately 30 microservices. Implemented using primarily serverless techniques and technologies, with containerized workloads for SIP and SMS communications, the Cloudlink platform serves as the communications backbone for dozens of Mitel applications and next generation technology initiatives. Managed the CI/CD pipelines for AWS Serverless micro services, REST API's, complex media processing architecture, and static web applications. Acted as a techincal expert on AWS services, security, and best practices for the entire organization, providing thought leadership on DevOps practices, culture, and integration with AWS. 
+
+* Designed, implemented, and maintained a purely AWS based CI/CD orchestration library designed to build, test, and deploy Cloudlink microservices to AWS across multiple regions and AWS accounts. 
+* Desigend and implemented blue/green deployment practices for Rest APIs and web applications on AWS. My design for web application blue/green on AWS was pitched by AWS internally as a candidate for a future AWS service.
+* Designed and implemented DevSecOps practices for third party dependency scanning using Whitesource, proactive scanning of infrastructure as code before deployment, and the implementation of the CIS Benchmark for AWS accounts across 120+ AWS accounts
+* Designed and implemented the Datalake for the platform
+* Managed the operation of the cloud via various monitoring tools (SumoLogic, DataDog, AWS CloudWatch)
+* And a whole lot more I'd love to chat about
 
 **JSI Telecom** - *Systems Integration Engineer*
 
@@ -60,6 +100,17 @@ Responsible for providing architectural level support for Mitel Contact Center S
 September 2010 - October 2011
 
 Responsible for customer support for Contact Center Solutions for Microsoft Lync, and Mitel telephony platforms. Provided mentorship for junior support staff. Also acted as primary subject matter expert for SalesForce.com Integration, CTI Developer Toolkit, Advanced Data Access, and Intelligent Queue products. Participated heavily in the design and architectural planning for features and products. prairieFyre Software was acquired by Mitel Networks in October 2011.
+
+---
+## Certifications
+**Amazon Web Services (AWS)**
+AWS Certified Developer - Associate
+
+**Government of Canada**
+Reliability Status and Secret Clearance
+
+**Microsoft Certified IT Professional**
+Microsoft Lync 2010, Microsoft Lync 2013, Microsoft SQL Server 2012
 
 ---
 
