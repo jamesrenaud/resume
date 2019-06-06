@@ -1,5 +1,5 @@
 # James Renaud
-<img align="left" src="/images/headshot.png">
+<img align="middle" src="/images/headshot.png">
 My entire career has been spent solving complex techincal problems for businesses and their customers. I have experience working with teams, leadership organizations, and standing in front of end customers directly. I am at the core a DevOps evangalist, and have personally undergone the transition from enterprise, waterfall based projects, into lean, agile, and scalable cloud solutions. I love designing, implementing, and maintaining DevOps practices in AWS for organizations of all sizes. My goal is to take organizations and teams with little to no DevOps experience or practice and integrate the technological and culture changes required to achieve scalability and success in the cloud space.
 
 I am a self starter, and a problem solver. I'm at my best when I'm presented with a problem to solve and given the freedom to work with the right people to design and implement a solution.
